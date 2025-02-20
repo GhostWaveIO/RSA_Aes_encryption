@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptografia RSA e AES", "Criptografia RSA e AES.csproj", "{C2541F61-6F48-4087-83A7-72D50FE489C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2541F61-6F48-4087-83A7-72D50FE489C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2541F61-6F48-4087-83A7-72D50FE489C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2541F61-6F48-4087-83A7-72D50FE489C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2541F61-6F48-4087-83A7-72D50FE489C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {211220F3-B6C7-4D8C-A029-AB1D817D3BE1}
+	EndGlobalSection
+EndGlobal
